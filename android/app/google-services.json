@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793298196270",
+    "project_id": "appyhigh-8406e",
+    "storage_bucket": "appyhigh-8406e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793298196270:android:1defe9e6472088b77c0cbf",
+        "android_client_info": {
+          "package_name": "com.vipin.appyhigh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793298196270-s1gjgqddo5lhqrc67aaa29lt852h368l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ahObexuHH3G47J6Cb1ikFO2o5-4rEB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793298196270-s1gjgqddo5lhqrc67aaa29lt852h368l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
